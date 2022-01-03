@@ -1,0 +1,5 @@
+version: 0.0
+os: windows
+files:
+  - source: \SampleApp\SampleApp\bin\Release\netcoreapp3.1
+    destination: C:\inetpub\wwwroot\SampleApp
